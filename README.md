@@ -17,7 +17,8 @@ Tabela com os links para as devidas questões.
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
 | [aaaaa](aaa) | Difícil (6) | dddd | [.py](.py) | [Rafael](https://github.com/rmatuda) |
 | [aaaaa](bbbbbb) | Médio (5) | cccc | [.py](ddd) | [Rafael](https://github.com/rmatuda) |
-| [AAAAA](BBBBB) | Difícil (7) |CCCC | [.py]() | [Caio]() |
+| [Problema 493](https://leetcode.com/problems/reverse-pairs/description/) | Difícil (7) |DC | [.cpp](https://github.com/projeto-de-algoritmos-2025/DC_LeetCode_RC/blob/master/questao493/solve.cpp) | [Caio](https://github.com/caiohabibe) |
+| [Problema 315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | Difícil (7) |DC | [.cpp](https://github.com/projeto-de-algoritmos-2025/DC_LeetCode_RC/tree/master/questao315/solve.cpp) | [Caio](https://github.com/caiohabibe) |
 
 
 Os screenshots estao nas pastas de cada questao.
