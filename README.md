@@ -20,19 +20,11 @@ Tabela com os links para as devidas questões.
 | [AAAAA](BBBBB) | Difícil (7) |CCCC | [.py]() | [Caio]() |
 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Os screenshots estao nas pastas de cada questao.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+links para videos:
+https://www.loom.com/share/12f9b29fb6ce41558bdf37a582e531b3?sid=d3c9ace7-ebce-4c76-ad36-31f21a2d91aa
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 
 
