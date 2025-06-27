@@ -7,7 +7,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 22/2006383 	  |  Rafael Melo Matuda |
-| 22/1021868  |  Caio Falcão Habibi Costa |
+| 22/1021868  |  Caio Falcão Habibe Costa |
 
 ## Sobre 
 Este repositório foi criado para a soluções de problemas de juízes online, que são dos temas abordados na disciplina de Projeto de Algoritmos.
