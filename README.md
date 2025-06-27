@@ -24,8 +24,8 @@ Tabela com os links para as devidas questões.
 Os screenshots estao nas pastas de cada questao.
 
 links para videos:
-https://www.loom.com/share/12f9b29fb6ce41558bdf37a582e531b3?sid=d3c9ace7-ebce-4c76-ad36-31f21a2d91aa
-link [Problema 23](https://www.youtube.com/watch?v=SOkrNp4MRV4)
+https://www.loom.com/share/12f9b29fb6ce41558bdf37a582e531b3?sid=d3c9ace7-ebce-4c76-ad36-31f21a2d91aa<br>
+link [Problema 23](https://www.youtube.com/watch?v=SOkrNp4MRV4)<br>
 link [Problema 215](https://www.youtube.com/watch?v=vYx8U_Rfv44)
 
 
