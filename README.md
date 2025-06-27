@@ -1,11 +1,6 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
- - D&C
-
-
 # Dc_LeetCode_RC
 
-**Número da Lista**: X<br>
+**Número da Lista**: 4<br>
 **Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
@@ -20,7 +15,7 @@ Tabela com os links para as devidas questões.
 
 | Problema | Dificuldade | Método | Solução Código | Responsável                             |
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
-| [1088 - Bolhas e Baldes](aaa) | Difícil (6) | dddd | [.py](.py) | [Rafael](https://github.com/rmatuda) |
+| [aaaaa](aaa) | Difícil (6) | dddd | [.py](.py) | [Rafael](https://github.com/rmatuda) |
 | [aaaaa](bbbbbb) | Médio (5) | cccc | [.py](ddd) | [Rafael](https://github.com/rmatuda) |
 | [AAAAA](BBBBB) | Difícil (7) |CCCC | [.py]() | [Caio]() |
 
