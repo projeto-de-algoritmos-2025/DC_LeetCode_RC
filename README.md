@@ -1,30 +1,29 @@
 **!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
  - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+
+# Dc_LeetCode_RC
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 22/2006383 	  |  Rafael Melo Matuda |
+| 22/1021868  |  Caio Falcão Habibi Costa |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório foi criado para a soluções de problemas de juízes online, que são dos temas abordados na disciplina de Projeto de Algoritmos.
+Tabela com os links para as devidas questões.
+
+| Problema | Dificuldade | Método | Solução Código | Responsável                             |
+| -------- | ----------- | ------ | -------------- | --------------------------------------- |
+| [1088 - Bolhas e Baldes](aaa) | Difícil (6) | dddd | [.py](.py) | [Rafael](https://github.com/rmatuda) |
+| [aaaaa](bbbbbb) | Médio (5) | cccc | [.py](ddd) | [Rafael](https://github.com/rmatuda) |
+| [AAAAA](BBBBB) | Difícil (7) |CCCC | [.py]() | [Caio]() |
+
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
